@@ -4,7 +4,6 @@ import logoImg from '../img/logo.jpg';
 export function TitleZone() {
   return (
     <>
-      <p>TitleZone</p>
       <div id="titleZone">
         <div id="gnb">
           <ul>
