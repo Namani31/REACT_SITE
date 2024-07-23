@@ -1,8 +1,9 @@
-import left_btnImg from '../img/left_btn.png'
-import right_btnImg from '../img/right_btn.png'
-import slider1 from '../img/1.jpg'
-import slider2 from '../img/2.jpg'
-import slider3 from '../img/3.jpg'
+import left_btnImg from '../img/left_btn.png';
+import right_btnImg from '../img/right_btn.png';
+import slider1 from '../img/1.jpg';
+import slider2 from '../img/2.jpg';
+import slider3 from '../img/3.jpg';
+import "../styles/SliderZone.css";
 
 export function SliderZone() {
   return (
