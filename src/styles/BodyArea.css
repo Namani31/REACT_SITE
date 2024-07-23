@@ -1,0 +1,48 @@
+#left_menu_box {
+    text-align: center;
+}
+
+.left_menu_title {
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    display: block;
+}
+
+.left_menu {
+    font-size: 20px;
+    color: gray;
+    padding-left: 15px;
+}
+
+.left_banner_title {
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    display: block;
+}
+
+.left_banner {
+    font-size: 20px;
+    color: gray;
+    padding-left: 15px;
+    text-align: center;
+}
+
+#bodyArea{
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+#leftmenuZone{
+    float: left;
+    width: 20%;
+
+}
+#contentsZone{
+    float: right;
+    width: 75%;
+}
